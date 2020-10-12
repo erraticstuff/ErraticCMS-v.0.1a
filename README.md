@@ -1,8 +1,8 @@
-## ErraticCMS
+### ErraticCMS
 Finally ErraticCMS is released!<br>
 It is lightweight CMS!<br>
 How to install the CMS?<br>
-First [download](https://r--29199-blob.files.erraticstuff.co/files/r2282/ecms/v0.1a/erratic-cms.zip) the file first
+First [download](https://r--29199-blob.files.erraticstuff.co/files/r2282/ecms/v0.1a/erratic-cms.zip) the file and extract it.
 And edit the ecms-config.php<br>
 Like this :<br>
 
@@ -15,8 +15,9 @@ Like this :<br>
     define('ECMS_SITE_TAG', '(Your website's tag for SEO)');
     define('ECMS_SITE_AUTHOR', '(Author's name)');
     define('ECMS_SITE_DESC', '(Your website's description for SEO)');
+    
 
 License : GPL v2<br>
 Feel free to contribute<br>
 And create issues if you having any troubles<br>
-Real Author : Erraticstuff<br>
+Real Author : Mr.Secret<br>
